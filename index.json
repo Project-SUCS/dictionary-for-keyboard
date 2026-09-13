@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-09-13T17:02:49.487868+00:00",
+  "languages": [
+    {
+      "lang_key": "english",
+      "lang_name": "English",
+      "lang_code": "en",
+      "group": "English",
+      "archive": "EN-kaikki.tar.gz",
+      "word_count": 1037769,
+      "weight": 3019390,
+      "sha256": "9a653c58c83567ec4afe116d2b51ecccc72ebf7584ebb6eebeeace4e16ba1532",
+      "built_at": "2026-09-13T17:02:49.467814+00:00"
+    },
+    {
+      "lang_key": "french",
+      "lang_name": "French",
+      "lang_code": "fr",
+      "group": "French",
+      "archive": "FR-kaikki.tar.gz",
+      "word_count": 414726,
+      "weight": 1072856,
+      "sha256": "1a397eb18520fa781246220ffe7b82d075fdb0daaf313aa8aec6b5c10ea83095",
+      "built_at": "2026-09-13T17:02:49.474543+00:00"
+    },
+    {
+      "lang_key": "german",
+      "lang_name": "German",
+      "lang_code": "de",
+      "group": "German",
+      "archive": "DE-kaikki.tar.gz",
+      "word_count": 473878,
+      "weight": 1227904,
+      "sha256": "1e558822fa2f09176ea64be30c62e909680015a276dd2668a0491d304b329dd9",
+      "built_at": "2026-09-13T17:02:49.471452+00:00"
+    },
+    {
+      "lang_key": "russian",
+      "lang_name": "Russian",
+      "lang_code": "ru",
+      "group": "Russian",
+      "archive": "RU-kaikki.tar.gz",
+      "word_count": 436460,
+      "weight": 1336297,
+      "sha256": "7dd13ba9083e3a6f3f84af433ccbdd68abb4881919a652c7ab46af042b9bdb4c",
+      "built_at": "2026-09-13T17:02:49.487217+00:00"
+    },
+    {
+      "lang_key": "spanish",
+      "lang_name": "Spanish",
+      "lang_code": "es",
+      "group": "Spanish",
+      "archive": "ES-kaikki.tar.gz",
+      "word_count": 1194049,
+      "weight": 3017227,
+      "sha256": "b910718e095d3a5c14e6bb20c66de56ac5eaeda1b215d25c3cf2b756d0c822f3",
+      "built_at": "2026-09-13T17:02:49.483217+00:00"
+    },
+    {
+      "lang_key": "ukrainian",
+      "lang_name": "Ukrainian",
+      "lang_code": "uk",
+      "group": "Ukrainian",
+      "archive": "UK-kaikki.tar.gz",
+      "word_count": 53826,
+      "weight": 197316,
+      "sha256": "95b6eb2d7ea281f7d561cb2739d07c93c7e149bd20a75fc974f9942c83828818",
+      "built_at": "2026-09-13T17:02:49.487844+00:00"
+    }
+  ]
+}
