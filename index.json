@@ -147,20 +147,6 @@
       "attribution": "Word list data extracted from English Wiktionary via kaikki.org (wiktextract by Tatu Ylonen)"
     },
     {
-      "lang_key": "finnish",
-      "lang_name": "Finnish",
-      "lang_code": "fi",
-      "group": "Finnish",
-      "archive": "FI-kaikki.tar.gz",
-      "word_count": 25744521,
-      "weight": 64567989,
-      "sha256": "4b885a654c219d5006a8b86fd31adb015fb8e4d50acdfbfa863d746729126c21",
-      "built_at": "2026-11-14T09:28:04.560946+00:00",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
-      "attribution": "Word list data extracted from English Wiktionary via kaikki.org (wiktextract by Tatu Ylonen)"
-    },
-    {
       "lang_key": "french",
       "lang_name": "French",
       "lang_code": "fr",
